@@ -1,0 +1,381 @@
+featuresID,propertyType,bathrooms,bedrooms,architectureType,cooling,coolingType,exteriorType,fireplace,fireplaceType,floorCount,foundationType,garage,garageType,garageSpaces,heating,heatingType,roofType,roomCount,unitCount,pool,poolType,viewType
+1,Single Family,2.0,3.0,Ranch,True,Central,OTHER,True,Unknown,1.0,Footing,True,Detached,0.0,True,Forced Air,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+2,Unknown,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+3,Single Family,4.0,4.0,Unkown,True,Central,OTHER,True,Prefab,2.0,OTHER,True,Attached,2.0,True,Forced Air,Composition Shingle,10.0,1.0,Unknown,Unknown,Unknown
+4,Single Family,1.5,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,True,Unknown,0.0,Unknown,Unknown,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+5,Condo,2.0,4.0,Condo / Apartment,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Slab / Mat / Raft,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,6.0,0.0,Unknown,Unknown,Unknown
+6,Single Family,2.0,3.0,Unkown,True,Central,Vinyl,True,Unknown,1.0,Block,True,Attached,0.0,True,Central,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+7,Single Family,2.5,5.0,Ranch,True,Central,Brick,True,Unknown,1.0,Unknown,True,Attached,2.0,True,Central,Asphalt,12.0,1.0,Unknown,Unknown,Unknown
+8,Single Family,2.0,3.0,Unkown,True,Commercial,Unknown,True,Unknown,1.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+9,Single Family,3.5,0.0,Colonial,True,Central,Brick,True,Unknown,2.0,OTHER,True,Mixed,2.0,True,Central,Slate,7.0,1.0,Unknown,Unknown,Unknown
+10,Single Family,6.0,5.0,Unkown,True,Unknown,Stucco,True,Unknown,3.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Built-up,0.0,1.0,Unknown,Unknown,Unknown
+11,Duplex-Triplex,4.0,0.0,Triplex,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,0.0,3.0,Unknown,Unknown,Unknown
+12,Single Family,2.0,3.0,Unkown,True,Central,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,2.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+13,Single Family,1.5,4.0,Colonial,True,Commercial,Aluminum / Vinyl Siding,True,Unknown,2.0,Block,True,Mixed,0.0,True,Forced Air,Shingle,8.0,1.0,Unknown,Unknown,Unknown
+14,Manufactured,0.0,0.0,Mobile Home,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+15,Single Family,2.0,3.0,Conventional,True,Central,Stone,True,Masonry,2.0,Unknown,True,Basement,1.0,True,Forced Air,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+16,Single Family,1.0,4.0,Conventional,True,Central,Aluminum / Vinyl Siding,True,Single,2.0,Unknown,True,Detached,5.0,True,Baseboard,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+17,Condo,1.0,2.0,Conventional,True,Central,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Gas,Unknown,4.0,1.0,Unknown,Unknown,Unknown
+18,Single Family,1.0,0.0,Unkown,True,Central,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,1.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+19,Single Family,1.0,3.0,Ranch / Rambler,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+20,Single Family,2.0,3.0,Ranch,True,Central,Block,True,Prefab,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+21,Single Family,1.0,0.0,Unkown,Unknown,Unknown,Wood Shingle,Unknown,Unknown,1.0,Wood,True,Detached,0.0,True,Floor / Wall,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+22,Condo,2.0,2.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+23,Single Family,2.0,3.0,Unkown,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+24,Single Family,3.5,3.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Garage,0.0,True,Central,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+25,Single Family,2.0,3.0,Contemporary,True,Central,Combination,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Forced Air,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+26,Single Family,1.0,4.0,Cape Cod,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Detached,1.0,True,Forced Air,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+27,Condo,1.0,2.0,Log Cabin / Rustic,Unknown,Unknown,Aluminum / Vinyl Siding,True,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,10.0,2.0,Unknown,Unknown,Unknown
+28,Single Family,3.0,0.0,Unkown,True,Central,Brick,True,Unknown,2.0,Unknown,True,Attached Garage,2.0,True,Central,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+29,Single Family,2.0,0.0,Unkown,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,"Footing, Continuous / Strip",Unknown,Unknown,0.0,True,Central,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+30,Single Family,2.0,3.0,Traditional,True,Commercial,Combination,True,Unknown,1.0,Stone,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+31,Single Family,3.5,4.0,Unkown,True,Central,Concrete Block,Unknown,Unknown,0.0,Slab / Mat / Raft,True,Garage,0.0,True,Central,Unknown,8.0,0.0,Unknown,Unknown,Unknown
+32,Single Family,2.5,0.0,Unkown,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Garage,0.0,True,Unknown,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+33,Single Family,2.0,3.0,Bungalow,True,Central,Masonry,Unknown,Unknown,1.0,Unknown,True,Detached Garage,1.0,Unknown,Unknown,Shingle (Not Wood),0.0,1.0,Unknown,Unknown,Unknown
+34,Single Family,2.5,4.0,Contemporary,True,Central,Wood,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Attached,1.0,True,Forced Air,Asphalt,8.0,1.0,Unknown,Unknown,Unknown
+35,Single Family,1.0,2.0,Ranch / Rambler,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+36,Single Family,1.0,2.0,Unkown,Unknown,Unknown,Wood,True,Unknown,1.0,Masonry,Unknown,Unknown,0.0,True,Unknown,Asphalt,4.0,1.0,Unknown,Unknown,Unknown
+37,Single Family,1.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,3.0,0.0,Unknown,Unknown,Unknown
+38,Condo,1.5,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+39,Single Family,3.0,4.0,Unkown,True,Central,Brick,True,Unknown,2.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Wood,0.0,1.0,Unknown,Unknown,Unknown
+40,Condo,2.5,0.0,Condo / Apartment,True,Commercial,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+41,Apartment,3.0,12.0,Two Family,True,Commercial,Brick / Stone,Unknown,Unknown,3.0,Unknown,True,Detached,3.0,Unknown,Unknown,Roll Tar & Gravel,0.0,3.0,Unknown,Unknown,Unknown
+42,Single Family,1.0,3.0,Unkown,True,Evaporative,Brick Veneer,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Unknown,Built-up (Layered Asphalt),0.0,1.0,Unknown,Unknown,Unknown
+43,Single Family,1.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+44,Single Family,2.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+45,Single Family,2.0,3.0,Ranch,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Concrete Block,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,6.0,0.0,Unknown,Unknown,Unknown
+46,Duplex-Triplex,0.0,0.0,Triplex,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,3.0,Unknown,Unknown,Unknown
+47,Single Family,2.0,3.0,Unkown,Unknown,Unknown,Brick,Unknown,Unknown,1.0,Unknown,True,Carport,0.0,True,Forced Air,Unknown,5.0,0.0,Unknown,Unknown,Unknown
+48,Land,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+49,Single Family,0.0,0.0,Unkown,True,Package,Brick,Unknown,Unknown,1.0,Footing,True,Carport,1.0,True,Heat Pump,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+50,Single Family,3.0,3.0,Conventional,True,Central,Brick,True,Unknown,1.0,Raised,Unknown,Unknown,0.0,True,Forced Air,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+51,Single Family,3.0,4.0,Unkown,True,Refrigeration,Wood,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,True,Gravity,Other,0.0,1.0,True,Community Pool,Unknown
+52,Single Family,2.5,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+53,Duplex-Triplex,1.0,1.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+54,Condo,1.5,1.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+55,Single Family,1.0,1.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+56,Single Family,3.0,4.0,Unkown,Unknown,Unknown,Concrete,Unknown,Unknown,0.0,OTHER,True,Attached,0.0,True,Heat Pump,Gravel,0.0,0.0,Unknown,Unknown,Unknown
+57,Apartment,1.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+58,Single Family,2.0,4.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Attached Garage,2.0,True,Central,Tile,0.0,1.0,True,Unknown,Unknown
+59,Single Family,1.0,0.0,Unkown,True,Commercial,Unknown,Unknown,Unknown,0.0,Masonry,Unknown,Unknown,0.0,True,Forced Air,Asphalt,5.0,0.0,Unknown,Unknown,Unknown
+60,Single Family,3.0,4.0,Unkown,True,Central,Concrete Block,True,Masonry,2.0,Unknown,True,Attached,3.0,True,Central,Asphalt,4.0,1.0,True,Unknown,Unknown
+61,Single Family,1.0,6.0,Unkown,True,Unknown,Unknown,True,Unknown,2.0,Unknown,True,Unknown,0.0,True,Radiant,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+62,Single Family,1.0,2.0,Ranch,Unknown,Unknown,Aluminum / Vinyl Siding,True,Unknown,1.0,Unknown,True,Carport,3.0,True,Floor / Wall,Composition Shingle,4.0,1.0,Unknown,Unknown,Unknown
+63,Apartment,1.0,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+64,Condo,1.0,1.0,Conventional,True,Commercial,Brick,True,Unknown,1.0,Unknown,True,Garage,1.0,True,Forced Air,Composition Shingle,3.0,0.0,Unknown,Unknown,Unknown
+65,Condo,2.5,3.0,Unkown,Unknown,Unknown,OTHER,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Hot Water,Unknown,6.0,0.0,Unknown,Unknown,Unknown
+66,Single Family,3.5,3.0,Unkown,True,Central,Unknown,True,Unknown,2.0,Unknown,True,Attached,4.0,True,Central,Unknown,11.0,0.0,Unknown,Unknown,Unknown
+67,Single Family,2.0,2.0,Unkown,Unknown,Unknown,Combination,True,Unknown,1.0,Concrete,True,Detached Garage,1.0,True,Wood Burning,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+68,Single Family,1.0,2.0,Unkown,True,Commercial,Wood,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Detached,2.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+69,Condo,0.0,0.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+70,Condo,2.5,3.0,Other,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Mixed,1.0,True,Forced Air,Shingle,7.0,1.0,Unknown,Unknown,Unknown
+71,Single Family,3.0,4.0,Unkown,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Unknown,True,Attached,0.0,True,Forced Air,Composition Shingle,8.0,1.0,Unknown,Unknown,Unknown
+72,Condo,1.0,1.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+73,Single Family,2.5,3.0,Traditional,True,Central,Wood,True,Masonry,3.0,Concrete,Unknown,Unknown,0.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+74,Condo,1.5,3.0,Condo / Apartment,True,Central,Vinyl,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+75,Single Family,1.0,2.0,Unkown,Unknown,Unknown,Concrete Block,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Other,0.0,1.0,Unknown,Unknown,Unknown
+76,Duplex-Triplex,2.0,4.0,Conventional,True,Commercial,Brick,True,Unknown,2.0,Unknown,True,Garage,0.0,True,Baseboard,Metal,0.0,1.0,Unknown,Unknown,Unknown
+77,Single Family,1.5,2.0,Ranch,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Raised,True,Attached,1.0,True,Gas,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+78,Single Family,2.0,0.0,Conventional,True,Central,Wood Frame / Siding,Unknown,Unknown,1.0,Wood,True,Carport,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+79,Single Family,2.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+80,Single Family,2.0,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+81,Single Family,1.0,0.0,Unkown,True,Commercial,Brick Veneer,Unknown,Unknown,0.0,Slab / Mat / Raft,Unknown,Unknown,0.0,True,Unknown,Asphalt,5.0,0.0,Unknown,Unknown,Unknown
+82,Single Family,2.0,0.0,Unkown,True,Evaporative,Brick Veneer,Unknown,Unknown,1.0,Slab / Mat / Raft,Unknown,Unknown,0.0,True,Unknown,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+83,Single Family,0.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Raised,Unknown,Unknown,0.0,True,Central,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+84,Single Family,3.0,5.0,2+ Story,True,Central,Stucco,True,Unknown,2.0,Unknown,True,Built-in,1.0,True,Forced Air,Tile,8.0,1.0,True,Pool and Hot Tub / Spa,Unknown
+85,Single Family,4.0,5.0,Ranch,True,Central,Brick Veneer,True,2 Story,2.0,Footing,True,Detached,2.0,True,Forced Air,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+86,Single Family,3.0,3.0,Unkown,True,Central,Wood,Unknown,Unknown,2.0,Unknown,True,Attached,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+87,Condo,0.0,0.0,Condo / Apartment,True,Commercial,Brick / Stone,Unknown,Unknown,1.0,Unknown,True,Carport,0.0,True,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Average
+88,Single Family,1.0,3.0,Ranch,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+89,Apartment,1.0,1.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+90,Manufactured,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+91,Single Family,2.0,3.0,A-Frame,True,Commercial,Stucco,Unknown,Unknown,2.0,OTHER,True,Built-in,0.0,True,Forced Air,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+92,Single Family,0.0,0.0,Split Level,Unknown,Unknown,Stucco,Unknown,Unknown,2.0,Unknown,True,Attached,1.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+93,Single Family,2.0,0.0,Unkown,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Footing,Unknown,Unknown,0.0,True,Central,Aluminum,0.0,0.0,Unknown,Unknown,Unknown
+94,Single Family,2.0,0.0,Unkown,True,Central,Stucco,Unknown,Unknown,1.0,Footing,True,Garage,1.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+95,Single Family,1.0,3.0,Unkown,Unknown,Unknown,Stucco,True,Unknown,1.0,Raised,True,Garage,1.0,True,Unknown,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+96,Single Family,2.0,0.0,Unkown,True,Central,Brick / Stone,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Fiberglass,0.0,0.0,Unknown,Unknown,Unknown
+97,Condo,3.0,2.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,True,Attached,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+98,Single Family,2.5,3.0,Unkown,Unknown,Unknown,OTHER,Unknown,Unknown,2.0,Raised,Unknown,Unknown,0.0,True,Baseboard,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+99,Condo,2.5,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+100,Single Family,1.0,3.0,Ranch / Rambler,Unknown,Unknown,Metal,Unknown,Unknown,1.0,Concrete,True,Detached,0.0,True,Forced Air,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+101,Single Family,2.0,3.0,Unkown,True,Central,Stucco,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Garage,1.0,Unknown,Unknown,Tile,0.0,1.0,Unknown,Unknown,Unknown
+102,Single Family,2.0,3.0,Unkown,True,Central,Unknown,True,Unknown,2.0,Unknown,True,Attached,2.0,True,Central,Asphalt,6.0,0.0,Unknown,Unknown,Unknown
+103,Single Family,2.5,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+104,Duplex-Triplex,0.0,0.0,Duplex,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,2.0,Unknown,Unknown,Unknown
+105,Single Family,2.0,4.0,Contemporary,True,Central,Wood,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,1.0,True,Forced Air,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+106,Single Family,1.5,3.0,Bi-Level,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+107,Condo,1.0,1.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+108,Single Family,3.0,4.0,Unkown,True,Wall,Combination,True,Gas Log,0.0,Footing,True,Garage,0.0,True,Unknown,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+109,Single Family,3.0,6.0,Colonial,Unknown,Unknown,Wood Siding,True,Unknown,3.0,Unknown,True,Detached Garage,1.0,True,Hot Water,Shingle (Not Wood),9.0,1.0,Unknown,Unknown,Unknown
+110,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+111,Single Family,3.0,5.0,Old Style,True,Central,Brick Veneer,True,2 Story,2.0,Concrete,True,Detached Garage,2.0,True,Forced Air,Composition Shingle,9.0,1.0,Unknown,Unknown,Unknown
+112,Single Family,3.0,3.0,Condo / Apartment,True,Commercial,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+113,Single Family,1.0,2.0,Conventional,True,Central,Brick,Unknown,Unknown,1.0,Raised,Unknown,Unknown,0.0,True,Heat Pump,Asphalt,6.0,0.0,Unknown,Unknown,Unknown
+114,Single Family,1.0,2.0,Unkown,True,Commercial,Wood,Unknown,Unknown,1.0,Unknown,True,Detached,0.0,True,Forced Air,Asphalt,4.0,1.0,Unknown,Unknown,Unknown
+115,Single Family,1.5,3.0,Bungalow,True,Central,Brick / Stone,Unknown,Unknown,1.0,Unknown,True,Detached,2.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+116,Condo,2.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+117,Single Family,5.0,5.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+118,Single Family,1.0,2.0,Ranch,Unknown,Unknown,Wood,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+119,Single Family,3.0,3.0,Conventional,True,Commercial,Wood,True,Unknown,1.0,Pier,True,Garage,3.0,True,Steam,Metal,0.0,1.0,Unknown,Unknown,Unknown
+120,Condo,1.0,1.0,Condo / Apartment,True,Central,Stucco,True,Unknown,1.0,Unknown,True,Carport,1.0,True,Forced Air,Tile,3.0,1.0,True,Unknown,Unknown
+121,Apartment,5.0,0.0,Condo / Apartment,Unknown,Unknown,Brick,Unknown,Unknown,2.0,Masonry,True,Garage,0.0,True,Forced Air,Composition Shingle,0.0,5.0,Unknown,Unknown,Unknown
+122,Single Family,3.0,3.0,Unkown,True,Commercial,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+123,Single Family,1.0,3.0,Unkown,Unknown,Unknown,Wood,Unknown,Unknown,1.0,OTHER,True,Carport,0.0,True,Gravity,Asphalt,5.0,0.0,Unknown,Unknown,Unknown
+124,Condo,2.5,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+125,Single Family,2.5,3.0,Unkown,True,Central,Unknown,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Garage,2.0,True,Central,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+126,Single Family,4.5,5.0,Unkown,True,Central,Stucco,True,Unknown,2.0,Unknown,True,Built-in,0.0,True,Forced Air,Tile,9.0,1.0,Unknown,Unknown,Unknown
+127,Single Family,1.0,2.0,Unkown,True,Central,Wood,Unknown,Unknown,1.0,Raised,True,Detached,0.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+128,Single Family,2.0,3.0,Contemporary,True,Central,Combination,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Forced Air,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+129,Single Family,2.0,3.0,Unkown,True,Central,Stucco,Unknown,Unknown,1.0,Unknown,True,Garage,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+130,Condo,2.0,3.0,Condo / Apartment,Unknown,Unknown,Stucco,True,Unknown,1.0,Slab / Mat / Raft,True,Detached,1.0,True,Central,Tile,8.0,1.0,Unknown,Unknown,Unknown
+131,Single Family,3.0,3.0,Colonial,True,Commercial,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Asphalt,8.0,1.0,Unknown,Unknown,Unknown
+132,Single Family,2.5,4.0,Conventional,True,Central,Unknown,True,Masonry,2.0,Raised,True,Attached,2.0,True,Forced Air,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+133,Single Family,1.0,3.0,Contemporary,Unknown,Unknown,Wood,Unknown,Unknown,1.0,Pier,True,Carport,1.0,Unknown,Unknown,Built-up,5.0,1.0,Unknown,Unknown,Unknown
+134,Single Family,2.0,3.0,Unkown,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+135,Single Family,1.0,3.0,Conventional,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+136,Single Family,3.0,3.0,Ranch / Rambler,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Hot Water,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+137,Single Family,2.0,3.0,Ranch,True,Commercial,Aluminum / Vinyl Siding,True,Single,1.0,Unknown,True,Garage,2.0,True,Gas,Asphalt,4.0,1.0,Unknown,Unknown,Unknown
+138,Single Family,2.0,0.0,Unkown,True,Commercial,Brick,Unknown,Unknown,2.0,Footing,True,OTHER,2.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+139,Single Family,3.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+140,Single Family,1.5,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+141,Single Family,1.0,0.0,Unkown,Unknown,Unknown,Brick,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Asphalt,0.0,0.0,Unknown,Unknown,Unknown
+142,Single Family,1.0,3.0,Conventional,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,1.0,True,Floor / Wall,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+143,Single Family,2.0,3.0,Traditional,Unknown,Unknown,Wood,True,Unknown,2.0,Unknown,True,Detached,0.0,True,Hot Water,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+144,Single Family,3.0,3.0,Ranch,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,True,Garage,2.0,True,Forced Air,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+145,Condo,1.0,1.0,Condo / Apartment,True,Central,Wood,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+146,Single Family,2.0,3.0,Unkown,True,Central,Concrete Block,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+147,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+148,Single Family,2.0,0.0,Unkown,True,Central,Vinyl,Unknown,Unknown,1.0,Pier / Post & Beam,True,Garage,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+149,Duplex-Triplex,0.0,0.0,Duplex,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,2.0,Unknown,Unknown,Unknown
+150,Single Family,1.0,3.0,Unkown,Unknown,Unknown,Brick,Unknown,Unknown,2.0,Unknown,True,Basement,1.0,True,Forced Air,Unknown,6.0,1.0,Unknown,Unknown,Average
+151,Single Family,4.5,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+152,Single Family,1.5,3.0,Colonial,True,Commercial,Aluminum / Vinyl Siding,True,Single,2.0,Unknown,True,Attached,0.0,True,Forced Air,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+153,Single Family,3.0,4.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Attached,2.0,True,Central,Tile,0.0,1.0,True,Unknown,Unknown
+154,Single Family,1.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+155,Single Family,2.0,3.0,Unkown,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Slab,True,Garage,0.0,True,Central,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+156,Single Family,2.0,3.0,Split Level,True,Commercial,Aluminum / Vinyl Siding,True,Single,2.0,Retaining Wall,True,Garage,2.0,True,Gas,Asphalt,8.0,1.0,Unknown,Unknown,Unknown
+157,Single Family,2.0,2.0,Contemporary,Unknown,Unknown,Unknown,True,Unknown,0.0,Unknown,True,Garage,2.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+158,Single Family,2.5,5.0,Colonial,True,Central,Other,True,Unknown,2.0,Unknown,True,Garage,2.0,True,Central,Shingle,9.0,1.0,Unknown,Unknown,Unknown
+159,Single Family,2.0,3.0,Ranch,True,Central,Vinyl,Unknown,Unknown,1.0,OTHER,Unknown,Unknown,0.0,True,Central,Composition Shingle,3.0,1.0,Unknown,Unknown,Unknown
+160,Manufactured,5.0,0.0,Mobile Home,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,True,Mixed,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+161,Single Family,1.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Raised,True,Attached,3.0,True,Central,Asphalt,5.0,0.0,Unknown,Unknown,Unknown
+162,Single Family,2.0,3.0,Unkown,Unknown,Unknown,Brick Veneer,Unknown,Unknown,1.0,Unknown,True,Attached,2.0,Unknown,Unknown,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+163,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Mixed,8.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+164,Single Family,2.0,4.0,Unkown,True,Commercial,Unknown,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+165,Single Family,1.5,3.0,Unkown,True,Commercial,Concrete,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+166,Single Family,2.0,3.0,Unkown,Unknown,Unknown,Brick / Stone,Unknown,Unknown,1.0,Wood,True,Garage,2.0,True,Forced Air,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+167,Single Family,2.0,3.0,Unkown,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,1.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+168,Single Family,2.0,3.0,Ranch,True,Commercial,Siding,True,Unknown,1.0,OTHER,True,Attached,2.0,True,Forced Air,Composition Shingle,6.0,1.0,Unknown,Unknown,Unknown
+169,Single Family,5.0,5.0,Unkown,True,Central,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Solar,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+170,Manufactured,0.0,0.0,Mobile Home,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Other,0.0,0.0,Unknown,Unknown,Unknown
+171,Condo,2.5,2.0,Condo / Apartment,True,Commercial,Unknown,True,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+172,Single Family,1.0,2.0,Contemporary,Unknown,Unknown,Siding,Unknown,Unknown,1.0,Pier,True,Carport,1.0,True,Floor / Wall,Asphalt,4.0,1.0,Unknown,Unknown,Unknown
+173,Condo,2.0,2.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,True,Garage,1.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+174,Condo,1.0,1.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,6.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,3.0,116.0,Unknown,Unknown,Unknown
+175,Single Family,2.5,4.0,Unkown,Unknown,Unknown,OTHER,True,Unknown,2.0,Raised,True,Attached,2.0,True,Forced Air,Composition Shingle,6.0,1.0,Unknown,Unknown,Unknown
+176,Single Family,3.0,4.0,Unkown,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,7.0,0.0,Unknown,Unknown,Unknown
+177,Single Family,2.0,3.0,Cape Cod,True,Commercial,OTHER,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+178,Condo,2.0,3.0,Unkown,True,Commercial,Stone,True,Unknown,1.0,Unknown,True,Garage,1.0,True,Forced Air,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+179,Single Family,2.5,4.0,Unkown,True,Central,Stucco,Unknown,Unknown,2.0,Unknown,True,Built-in,2.0,True,Forced Air,Tile,7.0,0.0,Unknown,Unknown,Unknown
+180,Apartment,2.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+181,Single Family,2.5,3.0,Unkown,True,Commercial,OTHER,True,Unknown,2.0,Masonry,True,Detached,0.0,True,Forced Air,Asphalt,7.0,1.0,Unknown,Unknown,Unknown
+182,Single Family,2.5,3.0,Colonial,True,Central,Wood,True,Masonry,2.0,Unknown,True,Attached,0.0,True,Forced Air,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+183,Manufactured,2.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+184,Single Family,2.0,3.0,Ranch,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Composition Shingle,7.0,1.0,Unknown,Unknown,Unknown
+185,Single Family,1.0,0.0,Unkown,True,Central,Frame Siding,Unknown,Unknown,2.0,"Footing, Continuous / Strip",True,Attached,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+186,Single Family,2.5,3.0,Conventional,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,True,Forced Air,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+187,Single Family,2.0,4.0,Unkown,True,Central,Siding,Unknown,Unknown,2.0,OTHER,True,Garage,0.0,True,Heat Pump,Composition Shingle,4.0,1.0,Unknown,Unknown,Unknown
+188,Single Family,4.0,0.0,Unkown,True,Commercial,Wood,Unknown,Unknown,2.0,Unknown,True,Attached Garage,2.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+189,Single Family,1.0,3.0,Colonial,Unknown,Unknown,OTHER,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Asphalt,7.0,1.0,Unknown,Unknown,Unknown
+190,Single Family,1.0,3.0,Unkown,Unknown,Unknown,Other,Unknown,Unknown,2.0,Unknown,True,Detached,0.0,True,Forced Air,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+191,Single Family,2.5,3.0,Unkown,True,Central,Aluminum / Vinyl Siding,True,Prefab,2.0,Slab / Mat / Raft,True,Garage,0.0,True,Forced Air,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+192,Single Family,3.0,5.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+193,Single Family,1.0,2.0,Traditional,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Unknown,True,Garage,0.0,True,Forced Air,Unknown,8.0,0.0,Unknown,Unknown,Unknown
+194,Single Family,1.0,3.0,Conventional,Unknown,Unknown,Wood,Unknown,Unknown,2.0,Unknown,True,Detached,1.0,True,Forced Air,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+195,Single Family,2.0,3.0,Contemporary,True,Central,Brick Veneer,True,Single,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+196,Condo,2.5,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+197,Single Family,3.0,5.0,Conventional,Unknown,Unknown,Brick Veneer,True,Unknown,2.0,Footing,True,Garage,0.0,True,Forced Air,Asphalt,0.0,0.0,Unknown,Unknown,Unknown
+198,Single Family,1.0,3.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Attached,0.0,True,Central,Tile,0.0,1.0,Unknown,Unknown,Unknown
+199,Manufactured,0.0,0.0,Mobile Home,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+200,Duplex-Triplex,0.0,0.0,Duplex,Unknown,Unknown,Unknown,Unknown,Unknown,3.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,0.0,2.0,Unknown,Unknown,Unknown
+201,Single Family,2.0,3.0,Contemporary,True,Central,Combination,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Attached,2.0,True,Forced Air,Asphalt,7.0,0.0,Unknown,Unknown,Unknown
+202,Single Family,1.0,3.0,Bungalow,True,Commercial,Brick / Stone,Unknown,Unknown,1.0,Unknown,True,Detached,0.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+203,Apartment,2.0,0.0,Two Family,True,Commercial,Brick / Stone,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Garage,0.0,Unknown,Unknown,Gravel,0.0,0.0,Unknown,Unknown,Unknown
+204,Condo,1.0,1.0,Condo / Apartment,True,Commercial,OTHER,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Central,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+205,Single Family,2.0,2.0,Cape Cod,Unknown,Unknown,OTHER,True,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Baseboard,Asphalt,7.0,0.0,Unknown,Unknown,Unknown
+206,Single Family,2.0,2.0,Conventional,True,Central,Brick Veneer,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Composition Shingle,5.0,1.0,Unknown,Unknown,Unknown
+207,Single Family,1.0,2.0,Cape Cod,Unknown,Unknown,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,True,Attached,0.0,True,Hot Water,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+208,Single Family,1.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,2.0,Unknown,Unknown,Unknown
+209,Single Family,1.0,3.0,Conventional,True,Evaporative Cooler,Unknown,Unknown,Unknown,1.0,Unknown,True,Attached Garage,1.0,True,Floor / Wall,Built-up,5.0,1.0,True,Unknown,Unknown
+210,Single Family,5.5,6.0,Unkown,True,Commercial,Stucco,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Tile,0.0,1.0,True,Unknown,Water
+211,Single Family,2.5,3.0,Colonial,True,Commercial,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,True,Carport,0.0,True,Forced Air,Asphalt,6.0,0.0,Unknown,Unknown,Unknown
+212,Single Family,2.0,3.0,Ranch,True,Central,Aluminum / Vinyl Siding,True,Single,2.0,Footing,True,Detached,0.0,True,Forced Air,Wood Shingle,0.0,1.0,Unknown,Unknown,Unknown
+213,Single Family,2.0,0.0,Unkown,True,Central,Brick,Unknown,Unknown,1.0,Wood,Unknown,Unknown,0.0,True,Central,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+214,Single Family,4.0,5.0,Unkown,True,Central,Stucco,Unknown,Unknown,2.0,Unknown,True,Attached Garage,2.0,True,Forced Air,Tile,9.0,1.0,Unknown,Unknown,Unknown
+215,Single Family,2.0,3.0,Condo / Apartment,Unknown,Unknown,Other,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Central,Asphalt,0.0,0.0,Unknown,Unknown,Unknown
+216,Single Family,2.0,0.0,Unkown,True,Central,Combination,Unknown,Unknown,1.0,Footing,True,Garage,1.0,True,Forced Air,Shingle (Not Wood),0.0,1.0,True,Unknown,Unknown
+217,Land,1.0,2.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Attached Garage,1.0,True,Central,Wood Shake / Shingle,0.0,1.0,Unknown,Unknown,Unknown
+218,Single Family,2.0,3.0,Unkown,True,Central,Brick / Stone,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+219,Single Family,2.0,3.0,Traditional,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+220,Single Family,2.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Attached,2.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+221,Single Family,3.0,4.0,Unkown,True,Commercial,Stucco,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Tile,0.0,1.0,Unknown,Unknown,Water
+222,Condo,3.0,3.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,True,Garage,2.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+223,Condo,1.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+224,Single Family,1.0,3.0,Ranch,True,Commercial,Aluminum / Vinyl Siding,True,Unknown,1.0,Slab / Mat / Raft,True,Detached,2.0,True,Forced Air,Asphalt,8.0,1.0,Unknown,Unknown,Unknown
+225,Single Family,2.0,3.0,Unkown,True,Central,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,True,Central,Unknown,0.0,0.0,True,Unknown,Unknown
+226,Condo,3.0,2.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+227,Single Family,2.0,3.0,Contemporary,True,Central,Combination,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Forced Air,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+228,Condo,2.0,0.0,Townhouse,True,Commercial,Brick,True,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Built-up,0.0,1.0,Unknown,Unknown,Unknown
+229,Duplex-Triplex,0.5,1.0,Duplex,True,Commercial,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Floor / Wall,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+230,Single Family,2.5,4.0,Conventional,True,Central,Combination,True,Unknown,2.0,Unknown,True,Garage,3.0,True,Baseboard,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+231,Townhouse,1.5,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+232,Single Family,1.0,3.0,Split Level,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+233,Single Family,1.5,3.0,Ranch,True,Commercial,Brick,True,Unknown,1.0,Unknown,True,Attached,0.0,True,Forced Air,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+234,Single Family,1.0,0.0,Conventional,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Pier / Post & Beam,True,Detached,1.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+235,Single Family,2.0,4.0,Unkown,True,Commercial,Unknown,True,Unknown,1.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+236,Duplex-Triplex,4.0,4.0,Duplex,True,Central,Stucco,Unknown,Unknown,1.0,Unknown,True,Garage,0.0,True,Forced Air,Asphalt,0.0,0.0,Unknown,Unknown,Unknown
+237,Single Family,0.0,3.0,Unkown,Unknown,Unknown,Brick Veneer,Unknown,Unknown,1.0,Slab / Mat / Raft,Unknown,Unknown,0.0,Unknown,Unknown,Shingle,6.0,1.0,Unknown,Unknown,Unknown
+238,Single Family,1.0,2.0,Traditional,True,Central,Concrete Block,Unknown,Unknown,1.0,Raised,True,Garage,0.0,True,Central,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+239,Duplex-Triplex,4.0,6.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Slab,True,Garage,2.0,True,Central,Wood Shake / Shingle,12.0,2.0,Unknown,Unknown,Unknown
+240,Single Family,2.5,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,True,Garage,2.0,Unknown,Unknown,Unknown,0.0,1.0,True,Unknown,Unknown
+241,Single Family,0.0,0.0,Unkown,True,Central,Stucco,Unknown,Unknown,2.0,Slab / Mat / Raft,Unknown,Unknown,0.0,Unknown,Unknown,Roll Tar & Gravel,0.0,0.0,Unknown,Unknown,Unknown
+242,Single Family,1.0,3.0,Bungalow,True,Commercial,Brick / Stone,Unknown,Unknown,1.0,Unknown,True,Detached,2.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+243,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+244,Single Family,1.0,0.0,Unkown,True,Evaporative,Wood,Unknown,Unknown,1.0,Unknown,True,Garage,0.0,True,Floor / Wall,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+245,Single Family,1.0,0.0,Ranch,True,Package,Aluminum / Vinyl Siding,True,Unknown,2.0,Footing,True,Detached,0.0,True,Central,Metal,0.0,1.0,Unknown,Unknown,Unknown
+246,Single Family,1.5,4.0,Unkown,Unknown,Unknown,Brick,True,Single,2.0,Unknown,True,Detached,1.0,True,Hot Water,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+247,Single Family,3.5,0.0,Conventional,True,Commercial,Aluminum / Vinyl Siding,True,1 Story Brick Chimney,2.0,Unknown,True,Built-in Garage,1.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+248,Single Family,3.5,3.0,Conventional,True,Commercial,Siding,True,1 Story Brick Chimney,2.0,Unknown,True,Mixed,0.0,True,Heat Pump,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+249,Single Family,2.0,3.0,Split Foyer,True,Central,Vinyl,Unknown,Unknown,2.0,Brick,Unknown,Unknown,0.0,True,Unknown,Asphalt,8.0,0.0,Unknown,Unknown,Unknown
+250,Single Family,1.5,1.0,Log Cabin / Rustic,True,Central,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,3.0,0.0,Unknown,Unknown,Unknown
+251,Single Family,1.5,3.0,Traditional,True,Central,Wood,True,Masonry,2.0,Unknown,True,Attached,0.0,True,Central,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+252,Single Family,2.5,2.0,Modern,True,Central,Brick / Stone,True,Unknown,2.0,Unknown,True,Attached,0.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+253,Single Family,3.0,3.0,Unkown,True,Central,Unknown,True,Unknown,2.0,Raised,True,Attached,4.0,True,Central,Asphalt,8.0,1.0,Unknown,Unknown,Unknown
+254,Single Family,4.5,5.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+255,Condo,2.0,3.0,Condo / Apartment,Unknown,Unknown,Unknown,True,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+256,Single Family,3.0,5.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,True,Garage,2.0,Unknown,Unknown,Unknown,0.0,1.0,True,Pool and Hot Tub / Spa,Unknown
+257,Single Family,1.0,3.0,Other,Unknown,Unknown,Asbestos Shingle,True,Unknown,1.0,OTHER,True,Detached,2.0,True,Forced Air,Aluminum,0.0,1.0,Unknown,Unknown,Unknown
+258,Single Family,3.0,4.0,Unkown,True,Central,Combination,True,Unknown,2.0,Unknown,True,Basement,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+259,Single Family,1.0,3.0,Unkown,Unknown,Unknown,Concrete Block,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Other,0.0,1.0,Unknown,Unknown,Unknown
+260,Townhouse,2.0,2.0,Condo / Apartment,Unknown,Unknown,Stucco,Unknown,Unknown,0.0,Unknown,True,Garage,0.0,True,Forced Air,Asphalt,0.0,1.0,True,Community Pool,Unknown
+261,Single Family,6.0,6.0,Unkown,True,Central,Wood,True,Masonry,2.0,Concrete,True,Garage,0.0,True,Central,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+262,Single Family,2.0,0.0,Unkown,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Composition Shingle,0.0,1.0,True,Unknown,Unknown
+263,Single Family,3.5,4.0,Split Level,True,Central,Wood,True,Unknown,2.0,Unknown,True,Attached,0.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+264,Single Family,1.0,2.0,Condo / Apartment,True,Refrigeration,Wood,Unknown,Unknown,2.0,Unknown,True,Carport,1.0,True,Forced Air,Built-up (Layered Asphalt),5.0,1.0,Unknown,Unknown,Unknown
+265,Single Family,0.0,0.0,Unkown,True,Central,Wood,Unknown,Unknown,1.0,Unknown,True,Attached,2.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+266,Single Family,2.0,4.0,Ranch,True,Central,Other,True,Unknown,1.0,Raised,True,Garage,0.0,True,Forced Air,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+267,Single Family,1.0,2.0,Unkown,True,Central,Brick / Stone,Unknown,Unknown,1.0,Unknown,True,Detached,1.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+268,Single Family,1.0,3.0,Old Style,True,Commercial,Wood,Unknown,Unknown,2.0,Unknown,True,Detached,2.0,Unknown,Unknown,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+269,Single Family,2.0,0.0,Unkown,True,Central,Stucco,Unknown,Unknown,1.0,Unknown,True,Attached,2.0,True,Forced Air,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+270,Single Family,2.5,0.0,Townhouse,True,Commercial,Siding,Unknown,Unknown,2.0,Unknown,True,Basement,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+271,Single Family,2.0,3.0,Unkown,True,Central,Unknown,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,1.0,True,Forced Air,Asphalt,0.0,0.0,Unknown,Unknown,Unknown
+272,Single Family,3.0,4.0,Unkown,Unknown,Unknown,Unknown,True,Unknown,2.0,Unknown,True,Garage,2.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+273,Single Family,2.0,2.0,Townhouse,True,Central,Frame Brick,True,Unknown,0.0,Unknown,True,Attached,2.0,True,Gas,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+274,Single Family,3.0,0.0,Unkown,True,Refrigeration,Wood,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,True,Forced Air,Built-up (Layered Asphalt),10.0,1.0,Unknown,Unknown,Unknown
+275,Condo,2.5,4.0,Colonial,True,Commercial,Aluminum / Vinyl Siding,True,Single,2.0,Unknown,True,Garage,0.0,True,Gas,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+276,Single Family,3.5,5.0,Unkown,True,Central,Brick,True,Unknown,2.0,Unknown,True,Attached Garage,1.0,True,Forced Air,Composition Shingle,9.0,0.0,Unknown,Unknown,Unknown
+277,Single Family,2.5,0.0,Unkown,True,Central,Wood,True,Unknown,2.0,Masonry,True,Garage,0.0,True,Central,Metal,0.0,0.0,Unknown,Unknown,Unknown
+278,Single Family,1.5,3.0,Unkown,Unknown,Unknown,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,True,Garage,2.0,True,Forced Air,Unknown,11.0,1.0,Unknown,Unknown,Unknown
+279,Single Family,1.0,0.0,Unkown,True,Unknown,Aluminum / Vinyl Siding,True,Unknown,1.0,Concrete Block,Unknown,Unknown,0.0,True,Forced Air,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+280,Single Family,2.5,0.0,Unkown,True,Central,Composition,True,Unknown,1.0,Footing,True,Garage,0.0,True,Central,Aluminum,0.0,0.0,Unknown,Unknown,Unknown
+281,Manufactured,2.0,0.0,Mobile Home,True,Central,Other,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+282,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+283,Single Family,1.5,3.0,Ranch,True,Central,Brick,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+284,Single Family,2.0,3.0,Unkown,True,Commercial,Stone Veneer,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Carport,0.0,True,Forced Air,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+285,Single Family,2.5,4.0,Colonial,True,Central,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,True,Garage,1.0,True,Gas,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+286,Single Family,2.0,3.0,Split Entry,True,Commercial,Aluminum / Vinyl Siding,True,Unknown,1.0,Unknown,True,Basement,0.0,True,Hot Water,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+287,Apartment,8.0,8.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+288,Single Family,2.0,3.0,Unkown,True,Central,Brick Veneer,True,Unknown,1.0,OTHER,True,Attached,3.0,True,Central,Composition Shingle,7.0,1.0,Unknown,Unknown,Unknown
+289,Condo,2.0,0.0,Condo / Apartment,True,Refrigeration,Stucco,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,True,Forced Air,Built-up (Layered Asphalt),4.0,1.0,Unknown,Unknown,Unknown
+290,Single Family,2.5,3.0,Townhouse,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Slab / Mat / Raft,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,6.0,1.0,Unknown,Unknown,Unknown
+291,Single Family,3.5,3.0,Condo / Apartment,True,Commercial,Other,True,Unknown,3.0,OTHER,True,Garage,2.0,True,Forced Air,Composition Shingle,7.0,1.0,Unknown,Unknown,Unknown
+292,Apartment,2.0,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+293,Single Family,1.5,4.0,Conventional,True,Commercial,Brick / Stone,Unknown,Unknown,2.0,Block,True,Detached,0.0,True,Forced Air,Asphalt,7.0,1.0,Unknown,Unknown,Unknown
+294,Single Family,4.5,5.0,Modern,True,Central,Unknown,True,Unknown,2.0,Unknown,True,Attached,2.0,True,Central,Tile,6.0,0.0,True,Pool and Hot Tub / Spa,Unknown
+295,Single Family,2.5,0.0,Conventional,True,Commercial,Aluminum / Vinyl Siding,True,Unknown,2.0,Unknown,True,Attached Garage,1.0,True,Unknown,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+296,Condo,2.0,3.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+297,Single Family,6.5,5.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+298,Single Family,1.0,2.0,Contemporary,Unknown,Unknown,Asbestos Shingle,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Carport,0.0,True,Floor / Wall,Asphalt,6.0,1.0,Unknown,Unknown,Unknown
+299,Single Family,2.5,3.0,Unkown,True,Central,Unknown,True,Masonry,1.0,Raised,True,Attached,1.0,True,Central,Asphalt,10.0,1.0,Unknown,Unknown,Unknown
+300,Single Family,2.0,3.0,Unkown,True,Central,Aluminum / Vinyl Siding,True,Prefab,1.0,Unknown,True,Garage,1.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+301,Single Family,2.0,3.0,Unkown,True,Commercial,Stucco,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+302,Single Family,2.5,4.0,Unkown,Unknown,Unknown,Concrete Block,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Other,0.0,1.0,True,Unknown,Unknown
+303,Condo,0.0,3.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,True,Unknown,Unknown
+304,Condo,2.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,4.0,88.0,True,Unknown,Unknown
+305,Townhouse,2.0,3.0,Unkown,True,Central,Brick Veneer,True,Prefab,0.0,OTHER,True,Garage,0.0,True,Forced Air,Shingle,0.0,1.0,Unknown,Unknown,Unknown
+306,Single Family,1.5,3.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Attached Garage,2.0,True,Central,Tile,0.0,1.0,Unknown,Unknown,Unknown
+307,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Wood,Unknown,Unknown,2.0,Unknown,True,Detached,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+308,Condo,2.0,3.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,True,Attached Garage,1.0,True,Unknown,Unknown,0.0,1.0,True,Community Pool,Average
+309,Single Family,1.0,2.0,Unkown,True,Central,Brick,Unknown,Unknown,1.0,Other,True,Detached,0.0,True,Central,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+310,Single Family,1.0,2.0,Cape Cod,Unknown,Unknown,OTHER,True,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Radiant,Asphalt,4.0,1.0,Unknown,Unknown,Unknown
+311,Single Family,3.0,4.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+312,Single Family,2.0,3.0,Split Entry,True,Commercial,Vinyl,Unknown,Unknown,0.0,Unknown,True,Attached,2.0,True,Unknown,Asphalt,7.0,0.0,Unknown,Unknown,Unknown
+313,Single Family,2.0,3.0,Unkown,True,Central,Brick Veneer,True,Unknown,0.0,Slab / Mat / Raft,True,Garage,0.0,True,Central,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+314,Single Family,3.0,4.0,Unkown,True,Central,Aluminum / Vinyl Siding,True,Unknown,2.0,Crawl / Raised,True,Garage,2.0,True,Forced Air,Composition Shingle,8.0,1.0,Unknown,Unknown,Unknown
+315,Single Family,2.0,2.0,Townhouse,True,Central,Wood,True,Unknown,2.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+316,Single Family,2.0,2.0,Condo / Apartment,True,Central,Brick,True,Unknown,2.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+317,Single Family,1.0,2.0,Unkown,True,Commercial,Stucco,Unknown,Unknown,1.0,Slab / Mat / Raft,Unknown,Unknown,0.0,True,Forced Air,Composition Shingle,4.0,1.0,Unknown,Unknown,Unknown
+318,Apartment,0.0,6.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+319,Single Family,2.5,4.0,Conventional,True,Central,Other,True,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+320,Condo,3.0,3.0,Unkown,True,Unknown,Concrete Block,Unknown,Unknown,2.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,1.0,True,Unknown,Unknown
+321,Condo,2.0,2.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+322,Single Family,5.0,7.0,Colonial,Unknown,Unknown,Aluminum / Vinyl Siding,True,Single,2.0,Retaining Wall,True,Detached Garage,4.0,True,Gas,Asphalt,11.0,1.0,True,"Pool, Concrete",Unknown
+323,Single Family,3.0,3.0,Split Level,Unknown,Unknown,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,0.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+324,Single Family,4.0,0.0,Unkown,True,Commercial,Brick,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,True,Forced Air,Shingle (Not Wood),9.0,1.0,True,In-Ground Vinyl Pool,Unknown
+325,Single Family,3.5,4.0,Unkown,True,Central,Unknown,True,Masonry,2.0,Unknown,True,Attached,5.0,True,Central,Asphalt,10.0,0.0,Unknown,Unknown,Unknown
+326,Single Family,2.0,4.0,Contemporary,True,Central,Stucco,Unknown,Unknown,1.0,Unknown,True,Garage,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+327,Single Family,2.5,4.0,Contemporary,True,Central,Stucco,Unknown,Unknown,2.0,Slab / Mat / Raft,True,Attached,2.0,True,Forced Air,Asphalt,10.0,1.0,Unknown,Unknown,Unknown
+328,Single Family,3.0,5.0,Split Level,True,Central,Frame Brick,True,Prefab,2.0,Unknown,True,Attached,0.0,True,Heat Pump,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+329,Single Family,2.0,3.0,Unkown,True,Commercial,Brick,Unknown,Unknown,1.0,Slab / Mat / Raft,Unknown,Unknown,0.0,True,Forced Air,Shingle,6.0,1.0,Unknown,Unknown,Unknown
+330,Single Family,2.0,3.0,Conventional,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,1.0,True,Central,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+331,Condo,1.0,0.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+332,Single Family,2.0,4.0,Conventional,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,1.0,True,Floor / Wall,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+333,Single Family,4.5,4.0,Conventional,True,Central,Brick,True,Unknown,1.0,Masonry,Unknown,Unknown,0.0,True,Forced Air,Asphalt,7.0,1.0,Unknown,Unknown,Unknown
+334,Single Family,2.0,0.0,Unkown,True,Central,Aluminum / Vinyl Siding,True,Unknown,1.0,Block,True,Attached,0.0,True,Heat Pump,Gravel,0.0,1.0,Unknown,Unknown,Unknown
+335,Condo,1.0,3.0,Condo / Apartment,Unknown,Unknown,Brick,Unknown,Unknown,2.0,Unknown,True,Garage,1.0,Unknown,Unknown,Unknown,6.0,1.0,Unknown,Unknown,Average
+336,Single Family,2.5,3.0,Conventional,True,Commercial,Siding,True,Gas Log,2.0,Unknown,True,Mixed,2.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+337,Single Family,2.5,4.0,Traditional,True,Central,Brick,True,Unknown,2.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Unknown,7.0,1.0,Unknown,Unknown,Unknown
+338,Single Family,2.0,3.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,1.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+339,Condo,1.0,1.0,Condo / Apartment,Unknown,Unknown,Wood,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,3.0,1.0,Unknown,Unknown,Unknown
+340,Single Family,3.0,0.0,Unkown,True,Refrigeration,Wood,Unknown,Unknown,1.0,Unknown,True,Garage,2.0,True,Gravity,Other,0.0,1.0,True,Unknown,Unknown
+341,Single Family,2.0,0.0,Unkown,True,Commercial,Unknown,True,Unknown,1.0,Unknown,True,Attached,0.0,True,Central,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+342,Single Family,1.5,2.0,Townhouse,True,Commercial,Siding,True,Unknown,2.0,Unknown,True,Garage,0.0,True,Forced Air,Built-up (Layered Asphalt),0.0,1.0,Unknown,Unknown,Unknown
+343,Single Family,2.5,4.0,Unkown,Unknown,Unknown,OTHER,True,Unknown,2.0,Raised,True,Attached,2.0,True,Heat Pump,Composition Shingle,8.0,1.0,Unknown,Unknown,Unknown
+344,Single Family,1.0,2.0,Ranch,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Hot Water,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+345,Single Family,2.0,4.0,Split Level,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Unknown,True,Attached,2.0,True,Heat Pump,Composition Shingle,7.0,0.0,Unknown,Unknown,Unknown
+346,Single Family,2.0,3.0,Ranch / Rambler,Unknown,Unknown,Aluminum / Vinyl Siding,True,Unknown,1.0,Unknown,True,Underground / Basement,0.0,True,Hot Water,Asphalt,6.0,0.0,Unknown,Unknown,Unknown
+347,Single Family,2.0,3.0,Unkown,True,Central,Concrete Block,Unknown,Unknown,1.0,Unknown,True,Carport,0.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+348,Single Family,2.0,3.0,Unkown,True,Central,Unknown,True,Unknown,1.0,Unknown,True,Attached,2.0,True,Central,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+349,Single Family,1.0,2.0,Gambrel,Unknown,Unknown,Aluminum / Vinyl Siding,Unknown,Unknown,2.0,Unknown,True,Attached,0.0,True,Hot Water,Asphalt,5.0,1.0,Unknown,Unknown,Unknown
+350,Single Family,2.0,3.0,Bi-Level,Unknown,Unknown,Brick,Unknown,Unknown,1.0,Unknown,True,Attached,0.0,True,Central,Unknown,6.0,1.0,Unknown,Unknown,Unknown
+351,Single Family,5.0,6.0,Unkown,True,Central,Brick,True,Masonry,2.0,Other,True,Garage,2.0,True,Central,Asphalt,0.0,1.0,True,Unknown,Unknown
+352,Single Family,2.5,3.0,Unkown,True,Central,Frame / Vinyl Siding,True,Prefab,2.0,Unknown,True,Attached Garage,2.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+353,Single Family,2.0,2.0,Unkown,True,Central,Wood,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Composition Shingle,6.0,0.0,Unknown,Unknown,Unknown
+354,Single Family,2.0,4.0,Conventional,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,True,Garage,1.0,True,Central,Unknown,9.0,1.0,Unknown,Unknown,Unknown
+355,Single Family,2.0,3.0,Unkown,True,Central,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Garage,0.0,True,Forced Air,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+356,Single Family,2.0,4.0,Ranch,True,Central,Brick Veneer,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,0.0,True,Central,Composition Shingle,6.0,1.0,Unknown,Unknown,Unknown
+357,Single Family,0.0,0.0,Unkown,True,Central,Brick,True,Single,2.0,Slab,True,Mixed,1.0,True,Gas,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+358,Single Family,2.0,3.0,Conventional,True,Central,Brick,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Garage,2.0,True,Central,Composition Shingle,0.0,0.0,Unknown,Unknown,Unknown
+359,Single Family,2.0,3.0,Ranch,True,Central,Brick,True,Unknown,1.0,Slab / Mat / Raft,True,Attached,2.0,True,Central,Roll Composition,7.0,1.0,Unknown,Unknown,Unknown
+360,Single Family,2.0,3.0,Unkown,True,Central,Unknown,Unknown,Unknown,2.0,Unknown,True,Garage,3.0,True,Central,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+361,Single Family,2.0,3.0,Unkown,True,Central,Stucco,Unknown,Unknown,1.0,Unknown,True,Attached,0.0,True,Forced Air,Tile,6.0,0.0,Unknown,Unknown,Unknown
+362,Manufactured,2.0,2.0,Mobile Home,Unknown,Unknown,Unknown,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Central,Unknown,5.0,0.0,Unknown,Unknown,Unknown
+363,Land,1.0,0.0,Unkown,Unknown,Unknown,Siding,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+364,Single Family,2.0,4.0,Conventional,True,Commercial,Brick Veneer,True,Unknown,2.0,Pier / Post & Beam,True,Attached,2.0,True,Forced Air,Asphalt,0.0,1.0,Unknown,Unknown,Unknown
+365,Single Family,2.0,2.0,Ranch,Unknown,Unknown,Wood,True,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,5.0,1.0,Unknown,Unknown,Unknown
+366,Single Family,2.5,3.0,Unkown,True,Central,Unknown,True,Unknown,2.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+367,Single Family,3.0,4.0,Bi-Level,Unknown,Unknown,Wood,True,Unknown,1.0,Unknown,True,Attached,0.0,True,Central,Unknown,8.0,1.0,Unknown,Unknown,Unknown
+368,Single Family,2.0,3.0,Unkown,True,Package,Stucco,True,Prefab,1.0,Footing,True,Garage,2.0,True,Package,Composition Shingle,0.0,1.0,True,Unknown,Unknown
+369,Single Family,4.5,0.0,Conventional,True,Commercial,Siding,True,Unknown,2.0,Unknown,True,Mixed,2.0,True,Forced Air,Composition Shingle,0.0,1.0,Unknown,Unknown,Unknown
+370,Single Family,1.5,3.0,Ranch,True,Central,Brick,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Attached,1.0,True,Central,Roll Composition,5.0,1.0,Unknown,Unknown,Unknown
+371,Townhouse,2.5,3.0,Unkown,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,0.0,Unknown,Unknown,Unknown
+372,Condo,1.0,1.0,Condo / Apartment,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,0.0,True,Floor / Wall,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+373,Single Family,0.0,0.0,Unkown,Unknown,Unknown,Wood,Unknown,Unknown,2.0,Unknown,True,Garage,2.0,Unknown,Unknown,Unknown,0.0,1.0,Unknown,Unknown,Unknown
+374,Single Family,2.0,3.0,Unkown,True,Commercial,Aluminum / Vinyl Siding,Unknown,Unknown,1.0,Slab / Mat / Raft,True,Garage,0.0,True,Heat Pump,Fiberglass,0.0,1.0,Unknown,Unknown,Unknown
+375,Duplex-Triplex,2.0,4.0,Other,Unknown,Unknown,Aluminum / Vinyl Siding,True,Unknown,1.0,Unknown,True,Detached,2.0,True,Central,Unknown,6.0,2.0,Unknown,Unknown,Unknown
+376,Single Family,1.5,4.0,Colonial,True,Central,Brick / Stone,True,Unknown,2.0,Unknown,True,Garage,1.0,True,Central,Shingle,8.0,1.0,Unknown,Unknown,Unknown
+377,Single Family,1.0,0.0,Unkown,True,Commercial,Stucco,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,True,Forced Air,Built-up (Layered Asphalt),0.0,1.0,Unknown,Unknown,Unknown
+378,Single Family,2.0,3.0,Ranch,Unknown,Unknown,Vinyl,Unknown,Unknown,1.0,OTHER,True,Attached,0.0,Unknown,Unknown,Asphalt,6.0,0.0,Unknown,Unknown,Unknown
+379,Duplex-Triplex,2.0,2.0,Duplex,Unknown,Unknown,Wood,Unknown,Unknown,1.0,Unknown,Unknown,Unknown,0.0,Unknown,Unknown,Unknown,6.0,0.0,Unknown,Unknown,Unknown
+380,Single Family,1.5,2.0,Unkown,True,Commercial,Metal,True,Unknown,1.0,Block,True,Detached,0.0,True,Forced Air,Asphalt,0.0,0.0,Unknown,Unknown,Unknown
